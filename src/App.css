@@ -1,0 +1,122 @@
+.Contenner{
+  border: 3px solid black;
+  background-color: #F79F1F;
+  border-radius: 10px;
+  width: 720px;
+  height: 500px;
+  margin-top:25px;
+  margin-left: 25%;
+  margin-right: 25%;
+  position: absolute;
+}
+
+h2{
+  background: linear-gradient(to right, #66dada 0%, #100122 100%); 
+  background-clip: text;
+  color: transparent;
+  text-align: center;
+  margin: 0px;
+  line-height: 1.3;
+}
+
+.container_left{
+  margin-left: 20px;
+  margin-top: 20px;
+  float: left;
+  width: 450px;
+}
+
+.container_right{
+  margin-top: 100px;
+  float: right;
+  padding-bottom: 20%;
+  width: 200px;
+  height: 460px;
+  margin-right: 20px;
+}
+
+
+.box{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    float: left;
+}
+
+.container_button{
+  height: 124px;
+  margin-top: px;
+}
+
+.button1{
+  width: 60px;
+  height: 60px; 
+  margin-left: 60px;
+}
+
+.button{
+  width: 60px;
+  height: 60px; 
+
+}
+
+.image{
+  width: 100%;
+  height: 100%;
+}
+
+.mario{
+  width: 38px;
+  height: 38px;
+}
+
+.diamond{
+  width: 38px;
+  height: 38px;
+}
+
+.youwin{
+  margin-top: 40px; 
+  height: 400px;
+  width: 420px;
+}
+.finish_win{
+  margin-top: 25px;
+}
+
+.ngaiVat{
+  width: 38px;
+  height: 38px;
+}
+
+.p{
+  margin-left: 100px;
+}
+.reload {
+  width: 100px;
+  background-color: bisque;
+  margin-left: 150px;
+  margin-top: 10px;
+}
+
+.Time{
+  margin-right: 10px;
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.finish_lose{
+  position: absolute;
+  margin-top: 25px;
+  margin-left: 22%;
+}
+.youlose{
+  margin-top: 40px; 
+  height: 400px;
+  width: 420px;
+}
+
+.modal{
+  margin-left: 26%;
+  margin-top: 70px;
+}
